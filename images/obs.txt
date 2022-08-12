@@ -1,0 +1,6 @@
+OBS:
+
+Na hora de conectar o Superset com o banco MySQL, nao consegui exito total, ao clicar em "CONNECT", o Superset nao gera acao nenhuma.
+No entanto, se observarmos as duas prints, uma do MySQL e outra do Postgres, podemos analisar que na imagem do MySQL ele nao reclama da porta "The port is closed", ja na imagem do Postgres sim.
+Podemos concluir que houve sim uma interacao entre, o banco MySQL e o Apache Superset.
+Tentei diversas formas resolver este problema do Superset, sem exito. 
