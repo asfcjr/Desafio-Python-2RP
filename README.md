@@ -1,6 +1,4 @@
-<h1 align="center"> 🍐 FREXCO DEVOPS 🍐 </h1>
-Aplicação API em Django com PostgreSQL, utilizando containers Docker e Docker-Compose, disparando via Pipeline CI/CD com GitHub Actions 
-<p align="center"> <img src=".github/workflows/docker-githubactions.png" /> </p>
+<h1 align="center"> 🐍 DESAFIO PYTHON 🐍  </h1>
 
 ## Objetivo do Desafio:
 • Criar um script Vagrant que suba uma máquina CentOS 7.x com 2 CPUs (2 cores de processador), 4 GB de memória RAM e 50gb de HD chamada “teste-zeppelin”. O acesso a ela deve ser através de uma chave privada, não com senha.
